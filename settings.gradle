@@ -1,0 +1,4 @@
+rootProject.name = "ACS_Rosemallow"
+include ':app'
+include ':app:alternatecreditscore'
+include ':app:giraffeplayer2'
