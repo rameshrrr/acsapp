@@ -10,6 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
+        android:layout_margin="20dp"
         android:orientation="vertical">
 
 
@@ -34,15 +35,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
             android:fontFamily="@font/allerlight"
             android:gravity="center"
-            android:text="Thanks for downloading ACS App!
-The ACS App collect some basic
-information on Hardware/Software,
-Call log, SMS data, Contacts list,
-Calendar Events, location, etc. This
-will be used to calculate your
-Alternate Credit Score."
+            android:text="The ACS App collect some basic information on Hardware/Software,Call log, SMS data, Contacts list, Calendar Events, location, etc. This will be used to calculate your Alternate Credit Score."
             android:textSize="22sp" />
 
 

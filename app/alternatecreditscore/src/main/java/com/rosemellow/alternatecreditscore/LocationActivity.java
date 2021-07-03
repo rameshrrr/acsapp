@@ -78,7 +78,7 @@ public class LocationActivity extends BaseActivity {
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        this.setTitle("Location");
+        this.setTitle("Data Collection");
 
         locationDB = new LocationDB(LocationActivity.this);
 
